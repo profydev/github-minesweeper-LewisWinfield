@@ -6,6 +6,7 @@
     "clear B2","clear C2","clear D2",
     "clear B1","clear C1","clear D1",
     "clear A3", "clear B3", "flag D3", "clear E3", "clear E4","clear E5",
-    "flag E6", "clear A6"
+    "flag E6", "clear A6",
+    "clear F3", "clear F4", "clear F5", "clear F6"
   ]
 }
